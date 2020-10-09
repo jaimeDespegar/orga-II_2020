@@ -1,2 +1,2 @@
 # orga-II_2020
-Repositoria de la materia Organizacion del Computador II
+Repositorio de la materia Organizacion del Computador II
